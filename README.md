@@ -1,3 +1,10 @@
 # githubtesting
 
-#hellp
+<<<<<<< HEAD
+#hello
+
+#hi
+
+
+
+>>>>>>> origin/master
